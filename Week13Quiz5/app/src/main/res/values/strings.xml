@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week13-Quiz5</string>
+    <string name="app_title">World Cup 2022</string>
+    <string name="stadiums_title">Stadiums</string>
+    <string name="stadiums_count">12</string>
+    <string name="stadium_name">Name</string>
+    <string name="stadium_location">Location</string>
+    <string name="stadium_capacity">Capacity</string>
+    <string name="stadium_picture_content_description">Stadium Picture</string>
+    <string name="like_button_content_description">Like Button</string>
+</resources>
